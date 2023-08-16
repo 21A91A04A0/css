@@ -1,0 +1,147 @@
+.division{
+	background-color: green;
+	height: 950px;
+	width: 1200px;
+}
+.division1{
+	background-color: white;
+	height: 50px;
+	width: 1190px;
+	box-sizing: border-box;
+	margin: 5px;
+}
+button{
+	border-radius: 5px;
+	border-width: 0px;
+	height: 30px;
+	width: 100px;
+	color: white;
+	margin-top: 5px;	
+}
+.b1{
+	background-color: lime;
+}
+.b2{
+	background-color: lightblue;
+}
+.b5{
+	background-color: red;
+}
+
+
+
+.division2{
+	background-color: ghostwhite;
+	height: 900px;
+	width: 1200px;
+}
+.division21{
+	background-color: white;
+	height: 800px;
+	width: 400px;
+	float: left;
+	margin: 10px;
+	border-radius: 10px
+}
+#img1{
+	
+	font-size: 50px;
+	padding-top: 50px;
+}
+.b21{
+	color: white;
+	background-color: blue;
+}
+.b22{
+	color: blue;
+	background-color: white;
+	border: 1px solid blue;
+}
+hr{
+	width: 350px;
+}
+#edit{
+	padding-left: 35px;
+	font-size: 30px;
+}
+.p1{
+	display: inline;
+	text-align: justify;
+	padding-left: 50px;
+}
+.h1{
+	display: inline;
+	text-align: center;
+	text-align: justify;
+
+}
+
+
+
+
+
+
+
+
+
+
+.division22{
+	height: 700px;
+	width: 700px;
+	background-color: ghostwhite;
+	float: right;
+	margin: 10px;
+}
+
+
+
+
+.division221{
+	height: 300px;
+	width: 700px;
+	background-color: white;
+	border-radius: 10px;
+}
+.label1{
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+.input1{
+	width: 400px;
+	float: right;
+	margin-right: 10px;
+}
+.b23{
+	color: white;
+	background-color: blue;
+	margin-left: 280px;
+}
+
+
+
+
+
+.division222{
+	height: 480px;
+	width: 700px;
+	background-color: white;
+	border-radius: 10px;
+	margin-top: 20px;
+}
+.h22{
+	padding-left: 10px;
+	padding-top: 20px;
+}
+.label2{
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+.input2{
+	width: 670px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
